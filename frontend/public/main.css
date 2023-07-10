@@ -1,0 +1,36 @@
+
+.main-body {
+    background-color: whitesmoke;
+    
+}
+
+.brand {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+}
+
+.brand:hover {
+    color: rgba(207, 201, 215, 0.67);
+}
+.hero-heading {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #030564;
+    text-align: left;
+}
+.spans {
+    color: blueviolet;
+}
+.cta {
+    background-color: rgb(113, 27, 184);
+}
+.spans:hover {
+    color: blue;
+}
+.cards {
+    background: whitesmoke;
+    
+}
+
+.cards:hover {
+    border: rgb(161, 14, 125);
+}
