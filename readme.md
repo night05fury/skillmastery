@@ -5,13 +5,26 @@
 ## 📸 Screenshots
 
 ### Home Page
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/1.Home.jpg)
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/1.Home.jpg" alt="Home Page" width="400">
 
 ### Login Page
 ![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/3.Login.jpg)
 
 ### Register Page
 ![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/2.Register.jpg)
+
+### Classroom Page
+![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/classroom.jpg)
+
+### Teacher Pages
+![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher1.jpg)
+![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher2.jpg)
+![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher3.jpg)
+
+### Student Pages
+![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/studentclass.jpg)
+![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/studentclass2.jpg)
+
 
 
 ## ✨ Features
@@ -69,7 +82,7 @@ REFRESH_TOKEN_EXPIRE= <Whatever you choose>
 Contributions from the following individuals are already acknowledged:
 - [Suryansh Singh](https://github.com/suryanshsingh2001)
 - [Mayank Kumar Patel](https://github.com/night05fury)
-  
+
 
 To contribute to [Project Name], follow these steps:
 
@@ -79,11 +92,9 @@ To contribute to [Project Name], follow these steps:
 4. Push the changes to your fork: `git push origin new-feature`.
 5. Submit a pull request.
 
-
-## 🌟 Acknowledgements
-
-[Optional: Acknowledge any external resources or libraries used]
-
 ## 📧 Contact
-
-[Provide your contact information]
+Reach out to us on 
+<br>
+[LinkedIn](https://www.linkedin.com/in/suryansh-singh-473187235/)
+[Gmail](ricochetthestoryteller2001@gmail.com
+)
