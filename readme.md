@@ -77,11 +77,13 @@ REFRESH_TOKEN_EXPIRE= <Whatever you choose>
 4. Start the development server: `npm start`
 5. Open the application in your browser at `http://localhost:3000`
 
-## 🙌 Contributing
+## 🙌 Contributions
 
 Contributions from the following individuals are already acknowledged:
-- [Suryansh Singh](https://github.com/suryanshsingh2001)
-- [Mayank Kumar Patel](https://github.com/night05fury)
+- Suryansh Singh
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/suryanshsingh2001)
+- Mayank Kumar Patel
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/night05fury)
 
 
 To contribute to [Project Name], follow these steps:
