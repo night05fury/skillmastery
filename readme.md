@@ -95,6 +95,8 @@ To contribute to [Project Name], follow these steps:
 ## 📧 Contact
 Reach out to us on 
 <br>
-[LinkedIn](https://www.linkedin.com/in/suryansh-singh-473187235/)
-[Gmail](ricochetthestoryteller2001@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/suryansh-singh-473187235/)
+[![Email](https://img.shields.io/badge/Email-Send-blue?logo=gmail)](mailto:ricochetthestoryteller2001@gmail.com
 )
+
+
