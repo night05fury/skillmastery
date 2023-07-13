@@ -67,9 +67,9 @@ REFRESH_TOKEN_EXPIRE= <Whatever you choose>
 ## 🙌 Contributing
 
 Contributions from the following individuals are already acknowledged:
-- [Contributor 1]
-- [Contributor 2]
-- ...
+- [Suryansh Singh](https://github.com/suryanshsingh2001)
+- [Mayank Kumar Patel](https://github.com/night05fury)
+  
 
 To contribute to [Project Name], follow these steps:
 
