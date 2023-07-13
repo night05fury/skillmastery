@@ -45,10 +45,11 @@ The project utilizes the following technologies:
 ### Usage
 
 1. Set up the environment variables. Rename the `.env.example` file to `.env` and provide the necessary values.
-2.
-3. Frontend:
-5. ```REACT_APP_BASE_URL=<Your backend URL>```
-5. Backend:
+2. Frontend:
+ ```
+REACT_APP_BASE_URL=<Your backend URL>
+```
+4. Backend:
 ```
 MONGO_DB_URL=<your database URL>
 CLIENT_URL=<Your hosting domail URL>
@@ -60,8 +61,8 @@ ACCESS_TOKEN_EXPIRE= <Whatever you choose>
 SECRET_REFRESH_TOKEN= <Whatever you choose>
 REFRESH_TOKEN_EXPIRE= <Whatever you choose>
 ```
-6. Start the development server: `npm start`
-7. Open the application in your browser at `http://localhost:3000`
+4. Start the development server: `npm start`
+5. Open the application in your browser at `http://localhost:3000`
 
 ## 🙌 Contributing
 
