@@ -86,7 +86,7 @@ Contributions from the following individuals are already acknowledged:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/night05fury)
 
 
-To contribute to [Project Name], follow these steps:
+To contribute to SkillMastery, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b new-feature`.
