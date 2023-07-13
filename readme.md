@@ -8,22 +8,22 @@
 <img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/1.Home.jpg" alt="Home Page" width="400">
 
 ### Login Page
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/3.Login.jpg)
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/3.Login.jpg" alt="Login Page" width="400">
 
 ### Register Page
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/2.Register.jpg)
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/2.Register.jpg" alt="Register Page" width="400">
 
 ### Classroom Page
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/classroom.jpg)
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/classroom.jpg" alt="Classroom Page" width="400">
 
 ### Teacher Pages
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher1.jpg)
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher2.jpg)
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher3.jpg)
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher1.jpg" alt="Teacher Page 1" width="400">
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher2.jpg" alt="Teacher Page 2" width="400">
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/teacher3.jpg" alt="Teacher Page 3" width="400">
 
 ### Student Pages
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/studentclass.jpg)
-![](https://github.com/suryanshsingh2001/skillmastery/blob/main/display/studentclass2.jpg)
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/studentclass.jpg" alt="Student Page 1" width="400">
+<img src="https://github.com/suryanshsingh2001/skillmastery/blob/main/display/studentclass2.jpg" alt="Student Page 2" width="400">
 
 
 
