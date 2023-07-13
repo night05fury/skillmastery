@@ -1,4 +1,4 @@
-# 🚀 Skillmastery
+# 🎯 Skillmastery
 
 **Skillmastery** is a feature-rich Learning Management System (LMS) developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Bootstrap for the frontend. It empowers teachers to effortlessly create classrooms, share posts, assign homework with deadlines, monitor student progress, and download class scores in Excel format. It also provides a seamless experience for students to enroll, submit projects, and engage in interactive discussions.
 
