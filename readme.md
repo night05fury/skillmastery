@@ -76,7 +76,43 @@ REFRESH_TOKEN_EXPIRE= <Whatever you choose>
 ```
 4. Start the development server: `npm start`
 5. Open the application in your browser at `http://localhost:3000`
+   
+## 🐳 Dockerization
 
+#### Frontend
+1. Navigate to the frontend directory of the project:
+
+```sh[]
+cd frontend
+```
+2. Build the Docker image for the client:
+
+```sh[]
+docker build -t skillmastery-frontend .
+```
+3. Run the Docker container for the client:
+```sh[]
+docker run -d -p 3000:3000 --name skillmastery-frontend skillmastery-frontend
+```
+4. Access the client application in your browser at: http://localhost:3000
+
+#### Backend 
+
+1. Navigate to the backend directory of the project:
+
+```sh[]
+cd backend
+```
+2. Build the Docker image for the server:
+```sh[]
+docker build -t killmastery-frontend .
+```
+3. Run the Docker container for the server:
+```sh[]
+docker run -d -p 5000:5000 --name killmastery-frontend killmastery-frontend
+```
+4. The server is now running and ready to accept requests.
+   
 ## 🙌 Contributions
 
 Contributions from the following individuals are already acknowledged:
@@ -84,6 +120,8 @@ Contributions from the following individuals are already acknowledged:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/suryanshsingh2001)
 - Mayank Kumar Patel
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/night05fury)
+- Kartikey Mishra
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/KartikeyMish)
 
 
 To contribute to SkillMastery, follow these steps:
