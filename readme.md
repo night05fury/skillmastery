@@ -1,7 +1,10 @@
 # 🎯 Skillmastery
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="justify">
+ 
 **Skillmastery** is a feature-rich Learning Management System (LMS) developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Bootstrap for the frontend. It empowers teachers to effortlessly create classrooms, share posts, assign homework with deadlines, monitor student progress, and download class scores in Excel format. It also provides a seamless experience for students to enroll, submit projects, and engage in interactive discussions.
 
+</p>
 ## 📸 Screenshots
 
 ### Home Page
